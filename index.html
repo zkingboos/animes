@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" type="image/x-icon" href="public/icon.svg"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de animes</title>
+    <link rel="stylesheet" href="public/style.css" />
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="public/animes.js"></script>
+    <script src="public/domAnime.js"></script>
+
+    <meta name="description" content="Uma lista de animes para otakus!">
+    <meta name="author" content="@zkingboos">
+</head>
+<body>
+    <div class="about">
+        <div class="kinda">
+            <h1>Lista de animes</h1>
+            <p>Os animes que assisti ou pretendo assistir em breve! Você também pode mandar sugestões de animes mandando um pull-request!</p>
+        </div>
+    </div>
+    <div class="centerContent">
+        <div class="column reduceSize">
+            <div class="row deny">
+                <h1 class="selection">Assistidos</h1>
+            </div>
+            <div class="row">
+                <div id="watched">
+                </div>
+            </div>
+        </div>
+        <div class="column reduceSize">
+            <div class="row deny">
+                <h1 class="selection">Assistindo</h1>
+            </div>
+            <div class="row">
+                <div id="watching">
+                </div>
+            </div>
+        </div>
+        <div class="column reduceSize">
+            <div class="row deny">
+                <h1 class="selection">Não vou continuar</h1>
+            </div>
+            <div class="row">
+                <div id="notinterest">
+                </div>
+            </div>
+        </div>
+        <div class="column reduceSize">
+            <div class="row deny">
+                <h1 class="selection">Próximos</h1>
+            </div>
+            <div class="row">
+                <div id="next">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
