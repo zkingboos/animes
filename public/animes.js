@@ -68,6 +68,9 @@ const watched_animes = [
 "Toradora",
 "Triage X",
 "Hentai Ouji to Waranai Neko",
+"Deca-Dence",
+"The God of High School",
+"Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
 ]
 
 /**
@@ -78,12 +81,9 @@ const watching_animes = [
 "┻━┻┻━┻",
 
 //not finished
-"Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
 "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
-"Deca-Dence",
 "Kanojo, Okarishimasu",
 "Pter Grill to Kenja no Jikan",
-"The God of High School",
 "Dokyuu Hentai HxEros",
 "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou ",
 "Monster Musume no Oishasan",
