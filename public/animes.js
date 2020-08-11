@@ -78,6 +78,7 @@ const watched_animes = [
  */
 const watching_animes = [
 //priority
+"Maquia: when the promised flowers blooms",
 "┻━┻┻━┻",
 
 //not finished
