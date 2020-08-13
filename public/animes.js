@@ -71,6 +71,7 @@ const watched_animes = [
 "Deca-Dence",
 "The God of High School",
 "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+"Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
 ]
 
 /**
@@ -78,7 +79,6 @@ const watched_animes = [
  */
 const watching_animes = [
 //priority
-"Maquia: when the promised flowers blooms",
 "┻━┻┻━┻",
 
 //not finished
