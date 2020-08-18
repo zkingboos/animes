@@ -80,7 +80,6 @@ const watched_animes = [
  */
 const watching_animes = [
 //priority
-"Gintama",
 "┻━┻┻━┻",
 
 //not finished
@@ -96,6 +95,7 @@ const watching_animes = [
  * Not interessing anime
  */
 const notInterest_animes = [
+"Gintama",
 "Uzaki-chan wa Asobitai!",
 "Lapis Re:LiGHTs",
 "Shokugeki No Souma",
