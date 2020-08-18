@@ -72,6 +72,7 @@ const watched_animes = [
 "The God of High School",
 "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
 "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+"Death March",
 ]
 
 /**
@@ -79,7 +80,6 @@ const watched_animes = [
  */
 const watching_animes = [
 //priority
-"Death March",
 "Gintama",
 "┻━┻┻━┻",
 
