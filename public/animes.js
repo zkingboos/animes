@@ -80,6 +80,7 @@ const watched_animes = [
  */
 const watching_animes = [
 //priority
+"Shuffle!",
 "┻━┻┻━┻",
 
 //not finished
@@ -165,7 +166,6 @@ const next_animes = [
 "HAGURE YUUSHA NO ESTETICA",
 "Shinmai Maou no Testament",
 "Koi no yokan",
-"Shuffle!",
 "blood+",
 "dakara boku wa, H ga dekinai",
 "Senryuu Shoujo",
