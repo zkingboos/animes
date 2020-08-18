@@ -79,6 +79,8 @@ const watched_animes = [
  */
 const watching_animes = [
 //priority
+"Death March",
+"Gintama",
 "┻━┻┻━┻",
 
 //not finished
@@ -120,8 +122,6 @@ const notInterest_animes = [
  */
 const next_animes = [
 //priority
-"Death March",
-"Gintama",
 "┻━┻┻━┻",
 
 "chaos;head",
