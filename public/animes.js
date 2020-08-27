@@ -73,6 +73,7 @@ const watched_animes = [
 "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
 "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
 "Death March",
+"kuzu no honktai",
 ]
 
 /**
