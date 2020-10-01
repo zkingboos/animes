@@ -74,6 +74,12 @@ const watched_animes = [
 "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
 "Death March",
 "kuzu no honktai",
+"Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+"Kanojo, Okarishimasu",
+"Pter Grill to Kenja no Jikan",
+"Dokyuu Hentai HxEros",
+"Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou ",
+"Monster Musume no Oishasan",
 ]
 
 /**
@@ -83,14 +89,7 @@ const watching_animes = [
 //priority
 "Shuffle!",
 "┻━┻┻━┻",
-
 //not finished
-"Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
-"Kanojo, Okarishimasu",
-"Pter Grill to Kenja no Jikan",
-"Dokyuu Hentai HxEros",
-"Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou ",
-"Monster Musume no Oishasan",
 ]
 
 /**
