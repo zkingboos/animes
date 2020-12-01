@@ -80,6 +80,7 @@ const watched_animes = [
 "Dokyuu Hentai HxEros",
 "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou ",
 "Monster Musume no Oishasan",
+"Shuffle!",
 ]
 
 /**
@@ -87,7 +88,6 @@ const watched_animes = [
  */
 const watching_animes = [
 //priority
-"Shuffle!",
 "┻━┻┻━┻",
 //not finished
 ]
